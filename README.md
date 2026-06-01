@@ -1,4 +1,4 @@
-# 📚 GitHub Users - Flutter App
+# GitHub Users - Flutter App
 
 A Flutter application for exploring GitHub users with advanced features like pagination, search, favorites, and real-time state synchronization.
 
@@ -42,7 +42,7 @@ The app uses the official GitHub REST API. To ensure compatibility:
 - Optimized stack management using `Get.offNamed` for top-level screens.
 - Proper controller lifecycle management (Automatic disposal and re-creation of detail controllers).
 
-## 📱 Project Structure
+## Project Structure
 
 ```
 lib/
